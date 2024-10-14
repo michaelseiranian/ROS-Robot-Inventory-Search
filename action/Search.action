@@ -1,0 +1,8 @@
+string room
+---
+string[] object_result
+uint32[] amount_result
+time time
+---
+string[] object_feedback
+uint32[] amount_feedback
